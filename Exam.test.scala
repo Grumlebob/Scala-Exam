@@ -14,6 +14,10 @@ import pigaro.*
 import adpro.monads.*
 import adpro.Good.*
 import adpro.Gens.*
+import adpro.parsing.*
+import adpro.parsing.Sliceable.*
+import adpro.IntervalParser1.*
+import adpro.Member
 
 
 object ExamSpec
@@ -22,7 +26,7 @@ object ExamSpec
   property("A test that always passes (a sanity check)") =
     forAll { (n: Int) => n == n }
   
-  property("Q1: goodPairs validates consecutive pairs correctly") = {
+  property("Q1") = {
     val list1 = List(1, 2, 3, 4)
     val list2 = List(1, 3, 2)
     
@@ -32,7 +36,7 @@ object ExamSpec
     goodPairs(list2, predicate) == false
   }
 
-  property("Q2: goodPairsCurried behaves like goodPairs") = {
+  property("Q2") = {
     val list = List(1, 2, 3)
     val predicate: (Int, Int) => Boolean = _ < _
     
@@ -42,7 +46,7 @@ object ExamSpec
     result1 == result2
   }
 
-  property("Q3: curriedNested behaves correctly") = {
+  property("Q3") = {
     val originalFunc: ((Int, Int) => Int) => String = f => f(2, 3).toString
     val curriedFunc: Int => Int => Int = a => b => a + b
     
@@ -51,7 +55,7 @@ object ExamSpec
     result == "5"
   }
 
-  property("Q4: goodPairsHotCurry behaves like goodPairs") = {
+  property("Q4") = {
     val list = List(1, 2, 3)
     val predicate: Int => Int => Boolean = a => b => a < b
     
@@ -61,11 +65,7 @@ object ExamSpec
     result1 == result2
   }
 
-  import org.scalacheck.Prop.*
-  import org.scalacheck.Arbitrary
-  import org.scalacheck.Gen
-
-  property("Q7: genEither generates valid Either[Int, String]") = {
+  property("Q7") = {
     given arbOptionInt: Arbitrary[Option[Int]] = Arbitrary(Gen.option(Gen.choose(0, 100)))
     given arbOptionString: Arbitrary[Option[String]] = Arbitrary(Gen.option(Gen.alphaStr))
 
@@ -79,25 +79,24 @@ object ExamSpec
     }
   }
 
-  import org.scalacheck.Prop.*
-  import adpro.parsing.*
-  import adpro.parsing.Sliceable.*
-  import adpro.IntervalParser1.*
 
-  property("Q8: intBetween parses valid integers in range") = {
+  property("Q8") = {
     val parser = intBetween(10, 20)
     val result = parser.run("15")
     result == Right(Some(15))
   }
 
-  property("Q8: intBetween returns None for out-of-range integers") = {
+  property("Q8") = {
     val parser = intBetween(10, 20)
     val result = parser.run("25")
     result == Right(None)
   }
 
 
-
+  property("Q10") = forAll { (normalList: List[Int], someElemenmt: Int) =>
+    given memberList: Member[List] = summon[Member[List]]
+    memberList.contains(normalList, someElemenmt) == normalList.contains(someElemenmt)
+  }
 
 
 end ExamSpec

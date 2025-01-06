@@ -1,1 +1,3636 @@
 2025.01.06 09:01:59 INFO  Started: Metals version 1.4.2 in folders 'C:\Programming\Scala\Exam' for client Visual Studio Code 1.96.2.
+2025.01.06 09:02:00 INFO  no build target found for C:\Programming\Scala\Exam\Exam.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:02:06 INFO  no build target found for C:\Programming\Scala\Exam\Exam.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:02:09 INFO  Wrote configuration file for ide in: C:\Programming\Scala\Exam\.bsp\scala-cli.json
+2025.01.06 09:02:09 INFO  time: ran 'scala-cli bspConfig' in 0.34s
+2025.01.06 09:02:09 INFO  Attempting to connect to the build server...
+2025.01.06 09:02:09 INFO  Running BSP server List(C:\Program Files\scala-cli-x86_64-pc-win32\scala-cli.EXE, bsp, --json-options, C:\Programming\Scala\Exam\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Programming\Scala\Exam\.scala-build\ide-launcher-options.json, --envs-file, C:\Programming\Scala\Exam\.scala-build\ide-envs.json, C:\Programming\Scala\Exam)
+2025.01.06 09:02:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Programming\Scala\Exam\.metals\bsp.trace.json or C:\Users\jgrum\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.06 09:02:15 INFO  time: Connected to build server in 6.12s
+2025.01.06 09:02:15 INFO  Connected to Build server: scala-cli v1.5.0
+2025.01.06 09:02:15 INFO  time: Imported build in 0.54s
+2025.01.06 09:02:15 INFO  running doctor check
+2025.01.06 09:02:15 INFO  java targets: Exam_d595174341-test, Exam_d595174341
+2025.01.06 09:02:16 INFO  compiling exam_d595174341 (14 scala sources)
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:02:57 INFO  time: indexed workspace in 41s
+2025.01.06 09:03:00 INFO  time: compiled Exam_d595174341 in 43s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:03:01 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:03:01 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:03:04 INFO  time: compiled Exam_d595174341-test in 2.59s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:03:08 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:03:08 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:03:08 INFO  time: compiled Exam_d595174341-test in 0.92s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:03:10 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:03:10 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:03:12 INFO  time: compiled Exam_d595174341-test in 2.02s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:03:14 INFO  time: code lens generation in 1.87s
+2025.01.06 09:03:14 INFO  time: code lens generation in 2.56s
+2025.01.06 09:03:14 INFO  time: code lens generation in 2.53s
+2025.01.06 09:03:14 INFO  time: code lens generation in 2.58s
+2025.01.06 09:03:14 INFO  time: code lens generation in 2.58s
+2025.01.06 09:03:14 INFO  time: code lens generation in 2.72s
+2025.01.06 09:03:14 INFO  time: code lens generation in 3.23s
+2025.01.06 09:03:19 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:03:19 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:03:21 INFO  time: compiled Exam_d595174341-test in 1.5s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:03:26 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:03:26 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:03:26 INFO  time: compiled Exam_d595174341-test in 0.63s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 9:03:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 175
+Jan 06, 2025 9:03:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 185
+2025.01.06 09:03:36 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:03:36 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:03:37 INFO  time: compiled Exam_d595174341-test in 1.07s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 9:04:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 309
+Jan 06, 2025 9:04:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 317
+2025.01.06 09:04:32 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:04:35 INFO  time: compiled Exam_d595174341 in 2.45s
+Jan 06, 2025 9:04:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 355
+Jan 06, 2025 9:04:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+Jan 06, 2025 9:04:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 359
+Jan 06, 2025 9:04:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 368
+Jan 06, 2025 9:04:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 361
+Jan 06, 2025 9:04:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 370
+2025.01.06 09:04:42 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:04:44 INFO  time: compiled Exam_d595174341 in 2.21s
+Jan 06, 2025 9:04:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 394
+2025.01.06 09:05:01 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:05:01 INFO  time: compiled Exam_d595174341 in 0.92s
+Jan 06, 2025 9:05:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 566
+Jan 06, 2025 9:05:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 568
+2025.01.06 09:05:31 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:05:31 INFO  time: compiled Exam_d595174341 in 0.55s
+2025.01.06 09:05:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:05:40 INFO  time: compiled Exam_d595174341 in 1.69s
+Jan 06, 2025 9:05:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 641
+2025.01.06 09:06:00 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:06:00 INFO  time: compiled Exam_d595174341 in 0.73s
+2025.01.06 09:06:26 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:06:27 INFO  time: compiled Exam_d595174341 in 1.37s
+2025.01.06 09:07:09 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:07:11 INFO  time: compiled Exam_d595174341 in 1.66s
+2025.01.06 09:07:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:07:29 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:07:30 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:07:30 INFO  time: compiled Exam_d595174341 in 0.72s
+Jan 06, 2025 9:07:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 819
+2025.01.06 09:07:40 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:07:40 INFO  time: compiled Exam_d595174341 in 0.81s
+2025.01.06 09:07:45 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:07:45 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:07:45 INFO  time: compiled Exam_d595174341 in 0.89s
+2025.01.06 09:07:48 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:07:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:01 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:02 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:04 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:11 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:18 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:18 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:08:18 INFO  time: compiled Exam_d595174341 in 0.58s
+2025.01.06 09:08:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:25 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:08:25 INFO  time: compiled Exam_d595174341 in 0.51s
+2025.01.06 09:08:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 9:08:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1030
+2025.01.06 09:08:54 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:08:57 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:08:58 INFO  time: compiled Exam_d595174341 in 1.23s
+2025.01.06 09:09:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:16 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:17 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:17 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:18 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:09:21 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:09:21 INFO  time: compiled Exam_d595174341 in 0.68s
+2025.01.06 09:09:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:10:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:10:02 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:10:04 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:10:04 INFO  time: compiled Exam_d595174341 in 0.67s
+2025.01.06 09:10:14 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:10:19 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:10:20 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:10:21 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:10:21 INFO  time: compiled Exam_d595174341 in 1.17s
+2025.01.06 09:10:21 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:10:23 INFO  time: compiled Exam_d595174341-test in 2.09s
+Jan 06, 2025 9:10:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1159
+2025.01.06 09:11:08 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:11:08 INFO  time: compiled Exam_d595174341 in 0.66s
+2025.01.06 09:12:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:12:30 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:12:30 INFO  time: compiled Exam_d595174341 in 0.8s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:12:32 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:12:33 INFO  time: compiled Exam_d595174341 in 1.13s
+Jan 06, 2025 9:12:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1260
+2025.01.06 09:12:44 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:12:44 INFO  time: compiled Exam_d595174341 in 0.61s
+2025.01.06 09:12:45 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:12:47 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:12:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:12:47 INFO  time: compiled Exam_d595174341 in 0.92s
+2025.01.06 09:12:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:07 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:13:07 INFO  time: compiled Exam_d595174341 in 0.28s
+2025.01.06 09:13:14 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:16 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:13:16 INFO  time: compiled Exam_d595174341 in 0.21s
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:13:27 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:13:27 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:13:27 INFO  time: compiled Exam_d595174341-test in 0.58s
+2025.01.06 09:13:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:13:48 INFO  time: compiled Exam_d595174341 in 1.42s
+2025.01.06 09:15:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:15:47 INFO  time: compiled Exam_d595174341 in 0.57s
+Jan 06, 2025 9:16:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1600
+Jan 06, 2025 9:17:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2003
+Jan 06, 2025 9:17:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2027
+Jan 06, 2025 9:17:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2051
+Jan 06, 2025 9:20:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2742
+Jan 06, 2025 9:20:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2924
+Jan 06, 2025 9:20:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3004
+Jan 06, 2025 9:20:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3011
+Jan 06, 2025 9:20:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3057
+Jan 06, 2025 9:20:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3150
+2025.01.06 09:20:58 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:20:59 INFO  compiling exam_d595174341 (1 scala source)
+Jan 06, 2025 9:21:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3207
+2025.01.06 09:21:01 INFO  time: compiled Exam_d595174341 in 1.82s
+2025.01.06 09:22:31 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:22:31 INFO  time: compiled Exam_d595174341 in 0.64s
+2025.01.06 09:22:40 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:22:40 INFO  time: compiled Exam_d595174341 in 0.64s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:22:56 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:22:56 INFO  time: compiled Exam_d595174341 in 0.49s
+2025.01.06 09:23:06 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:23:06 INFO  time: compiled Exam_d595174341 in 0.49s
+2025.01.06 09:23:12 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:23:12 INFO  time: compiled Exam_d595174341 in 0.53s
+2025.01.06 09:23:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:23:57 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:23:57 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:23:57 INFO  time: compiled Exam_d595174341 in 1.53s
+2025.01.06 09:23:58 INFO  time: compiled Exam_d595174341-test in 1.77s
+Jan 06, 2025 9:24:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3614
+Jan 06, 2025 9:26:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4069
+Jan 06, 2025 9:28:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4369
+2025.01.06 09:28:46 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:28:46 INFO  time: compiled Exam_d595174341 in 0.96s
+Jan 06, 2025 9:28:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4477
+2025.01.06 09:29:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:29:19 INFO  time: compiled Exam_d595174341 in 0.82s
+2025.01.06 09:30:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:30:19 INFO  time: compiled Exam_d595174341 in 0.71s
+Jan 06, 2025 9:30:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4867
+Jan 06, 2025 9:30:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4937
+2025.01.06 09:33:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 9:33:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5870
+2025.01.06 09:33:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:20 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:33:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:33:22 INFO  time: compiled Exam_d595174341 in 1.97s
+2025.01.06 09:33:37 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:33:37 INFO  time: compiled Exam_d595174341 in 0.68s
+Jan 06, 2025 9:33:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5917
+2025.01.06 09:34:28 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 09:34:28 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:34:29 INFO  time: compiled Exam_d595174341 in 1.03s
+2025.01.06 09:35:27 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:35:27 INFO  time: compiled Exam_d595174341 in 0.29s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:36:09 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:36:09 INFO  time: compiled Exam_d595174341 in 0.56s
+2025.01.06 09:36:16 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:36:16 INFO  time: compiled Exam_d595174341 in 0.47s
+2025.01.06 09:36:16 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:36:18 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:36:18 INFO  time: compiled Exam_d595174341 in 0.42s
+2025.01.06 09:36:45 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:36:45 INFO  time: compiled Exam_d595174341 in 0.37s
+2025.01.06 09:36:57 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:36:57 INFO  time: compiled Exam_d595174341 in 0.31s
+2025.01.06 09:37:37 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:37:37 INFO  time: compiled Exam_d595174341 in 0.58s
+2025.01.06 09:37:45 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:37:45 INFO  time: compiled Exam_d595174341 in 0.9s
+2025.01.06 09:37:56 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:37:56 INFO  time: compiled Exam_d595174341 in 0.25s
+2025.01.06 09:38:45 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:38:48 INFO  time: compiled Exam_d595174341 in 3.14s
+2025.01.06 09:39:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:39:11 INFO  time: compiled Exam_d595174341 in 1.17s
+2025.01.06 09:40:09 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:40:09 INFO  time: compiled Exam_d595174341 in 0.29s
+2025.01.06 09:41:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:41:36 INFO  time: compiled Exam_d595174341 in 0.73s
+2025.01.06 09:42:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:42:40 INFO  time: compiled Exam_d595174341 in 1.32s
+2025.01.06 09:43:16 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:43:16 INFO  time: compiled Exam_d595174341 in 0.45s
+2025.01.06 09:44:03 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:44:04 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:44:04 INFO  time: compiled Exam_d595174341 in 1.22s
+2025.01.06 09:44:04 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:44:06 INFO  time: compiled Exam_d595174341-test in 1.93s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:44:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:16 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:44:16 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:44:16 INFO  time: compiled Exam_d595174341-test in 0.39s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:44:16 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:23 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:44:23 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:44:25 INFO  time: compiled Exam_d595174341-test in 1.44s
+2025.01.06 09:44:28 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:44:28 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:44:28 INFO  time: compiled Exam_d595174341-test in 0.39s
+2025.01.06 09:44:43 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:44:44 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:44:44 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:44:44 INFO  time: compiled Exam_d595174341 in 1.88s
+2025.01.06 09:44:47 INFO  time: compiled Exam_d595174341-test in 2.13s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:44:51 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:52 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:44:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:44:52 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:44:54 INFO  time: compiled Exam_d595174341-test in 2.88s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:44:55 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:34 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:45:34 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:45:34 INFO  time: compiled Exam_d595174341-test in 0.64s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:45:36 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:45:36 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:45:36 INFO  time: compiled Exam_d595174341-test in 0.56s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:45:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:51 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:54 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:54 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:54 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:45:59 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:00 WARN  Could not find 'forAllNoShrink' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.01.06 09:46:00 WARN  Could not find 'forAllNoShrink' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.01.06 09:46:02 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:04 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:06 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:46:06 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:46:06 INFO  time: compiled Exam_d595174341-test in 0.67s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:46:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:13 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:14 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:46:14 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:46:14 INFO  time: compiled Exam_d595174341-test in 0.4s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:46:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:19 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:20 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:46:20 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:46:20 INFO  time: compiled Exam_d595174341-test in 0.32s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:46:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:42 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:46:42 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:46:46 INFO  time: compiled Exam_d595174341-test in 3.68s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:46:47 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:55 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:46:59 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:47:19 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:47:19 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:47:20 INFO  time: compiled Exam_d595174341-test in 1.64s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:47:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:47:25 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:47:25 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:47:26 INFO  time: compiled Exam_d595174341-test in 1.25s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:47:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:47:28 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:47:28 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:47:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:47:31 INFO  time: compiled Exam_d595174341-test in 2.77s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:47:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:47:31 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:47:31 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:47:34 INFO  time: compiled Exam_d595174341-test in 2.07s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:47:46 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:47:49 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:47:49 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:47:51 INFO  time: compiled Exam_d595174341-test in 2.21s
+2025.01.06 09:47:51 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:47:51 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:47:54 INFO  time: compiled Exam_d595174341-test in 2.24s
+Jan 06, 2025 9:49:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7362
+2025.01.06 09:49:13 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:49:13 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:49:13 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:49:13 INFO  time: compiled Exam_d595174341 in 0.99s
+2025.01.06 09:49:18 INFO  time: compiled Exam_d595174341-test in 4.11s
+Jan 06, 2025 9:49:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7420
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:49:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:49:38 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:49:38 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:49:41 INFO  time: compiled Exam_d595174341-test in 2.63s
+2025.01.06 09:49:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:49:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:49:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:49:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:49:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:49:45 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:49:47 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:49:47 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:49:48 INFO  time: compiled Exam_d595174341-test in 1.25s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:49:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:04 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:50:04 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:50:04 INFO  time: compiled Exam_d595174341-test in 0.6s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:50:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:08 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:50:08 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:50:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:08 INFO  time: compiled Exam_d595174341-test in 0.67s
+2025.01.06 09:50:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:50:09 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:11 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:12 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:14 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:50:14 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:50:16 INFO  time: compiled Exam_d595174341-test in 2.03s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:50:16 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+Jan 06, 2025 9:50:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7600
+2025.01.06 09:50:21 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:50:21 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:50:23 INFO  time: compiled Exam_d595174341-test in 1.83s
+2025.01.06 09:50:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:50:31 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:50:31 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:50:32 INFO  time: compiled Exam_d595174341-test in 1.51s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:50:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+Jan 06, 2025 9:50:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7691
+2025.01.06 09:50:46 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:46 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:51 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:51 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:51 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:53 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:54 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:50:54 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:50:58 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:58 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:58 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:58 INFO  time: compiled Exam_d595174341-test in 4.35s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:50:58 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:50:59 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:01 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:51:01 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:51:04 INFO  time: compiled Exam_d595174341-test in 2.71s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:51:04 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:08 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:51:08 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:51:13 INFO  time: compiled Exam_d595174341-test in 5.18s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:51:13 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:18 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+Jan 06, 2025 9:51:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7824
+2025.01.06 09:51:19 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:25 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:27 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:32 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:33 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:51:33 WARN  Setting -language set to adhocExtensions redundantly
+Jan 06, 2025 9:51:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7900
+2025.01.06 09:51:36 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:36 INFO  time: compiled Exam_d595174341-test in 2.46s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:51:36 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:37 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:51:37 WARN  Setting -language set to adhocExtensions redundantly
+Jan 06, 2025 9:51:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7914
+2025.01.06 09:51:43 INFO  time: compiled Exam_d595174341-test in 5.7s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:51:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:51 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:52 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:51:53 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:51:53 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:51:55 INFO  time: compiled Exam_d595174341-test in 2.1s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:51:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:52:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:52:09 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:52:10 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 09:52:11 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:52:11 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:52:11 INFO  time: compiled Exam_d595174341-test in 0.76s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:52:16 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:52:16 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:52:16 INFO  time: compiled Exam_d595174341-test in 0.88s
+2025.01.06 09:55:25 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:55:26 INFO  time: compiled Exam_d595174341 in 0.99s
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def oCURSOR = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def oCURSOR = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def oCURSOR = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def oCURSOR = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def oCURSOR = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-35-843.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def ov = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def ov = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def ov = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def ov = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def ov = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-36-274.md
+2025.01.06 09:55:36 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overrideCURSOR = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A])
+    def overrideCURSOR = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A])
+      def overrideCURSOR = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A])
+      def overrideCURSOR = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A])
+        def overrideCURSOR = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-36-456.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-37-243.md
+2025.01.06 09:55:37 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-37-789.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-38-614.md
+2025.01.06 09:55:38 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-40-455.md
+2025.01.06 09:55:41 INFO  compiling exam_d595174341 (1 scala source)
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+2025.01.06 09:55:41 INFO  exception occurred while parser C:\Programming\Scala\Exam\Exam.scala
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Yno-enrich-error-messages.
+
+     while compiling: C:\Programming\Scala\Exam\Exam.scala
+        during phase: parser
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.12
+    compiler version: version 3.4.2
+            settings: -Xsemanticdb true -bootclasspath C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.4.2\scala3-library_3-3.4.2.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar -classpath C:\Programming\Scala\Exam\.scala-build\.bloop\Exam_d595174341\bloop-internal-classes\main-BgVs6FTbRYGuAPYHwdvzFg==;C:\Programming\Scala\Exam\.scala-build\.bloop\Exam_d595174341\bloop-internal-classes\main-47YVrREITaySqk8SWORJYA==;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalacheck\scalacheck_3\1.18.1\scalacheck_3-1.18.1.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalactic\scalactic_3\3.2.19\scalactic_3-3.2.19.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire_3\0.18.0\spire_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire-macros_3\0.18.0\spire-macros_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire-platform_3\0.18.0\spire-platform_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire-util_3\0.18.0\spire-util_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\algebra_3\2.8.0\algebra_3-2.8.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\cats-kernel_3\2.8.0\cats-kernel_3-2.8.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.10.0\semanticdb-javac-0.10.0.jar -d C:\Programming\Scala\Exam\.scala-build\.bloop\Exam_d595174341\bloop-internal-classes\main-BgVs6FTbRYGuAPYHwdvzFg== -deprecation true -feature true -language List(adhocExtensions) -source future -sourceroot C:\Programming\Scala\Exam
+Jan 06, 2025 9:55:41 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-41-450.md
+2025.01.06 09:55:41 INFO  time: compiled Exam_d595174341 in 0.33s
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-41-998.md
+2025.01.06 09:55:42 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-42-073.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-42-523.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-42-939.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-43-094.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-43-235.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def overide = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-43-414.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-44-124.md
+2025.01.06 09:55:44 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-46-139.md
+2025.01.06 09:55:46 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:55:46 INFO  exception occurred while parser C:\Programming\Scala\Exam\Exam.scala
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Yno-enrich-error-messages.
+
+     while compiling: C:\Programming\Scala\Exam\Exam.scala
+        during phase: parser
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.12
+    compiler version: version 3.4.2
+            settings: -Xsemanticdb true -bootclasspath C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.4.2\scala3-library_3-3.4.2.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar -classpath C:\Programming\Scala\Exam\.scala-build\.bloop\Exam_d595174341\bloop-internal-classes\main-aa6V0WKTQJagPhXKO6fc3w==;C:\Programming\Scala\Exam\.scala-build\.bloop\Exam_d595174341\bloop-internal-classes\main-47YVrREITaySqk8SWORJYA==;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalacheck\scalacheck_3\1.18.1\scalacheck_3-1.18.1.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalactic\scalactic_3\3.2.19\scalactic_3-3.2.19.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire_3\0.18.0\spire_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire-macros_3\0.18.0\spire-macros_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire-platform_3\0.18.0\spire-platform_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\spire-util_3\0.18.0\spire-util_3-0.18.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\algebra_3\2.8.0\algebra_3-2.8.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\typelevel\cats-kernel_3\2.8.0\cats-kernel_3-2.8.0.jar;C:\Users\jgrum\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.10.0\semanticdb-javac-0.10.0.jar -d C:\Programming\Scala\Exam\.scala-build\.bloop\Exam_d595174341\bloop-internal-classes\main-aa6V0WKTQJagPhXKO6fc3w== -deprecation true -feature true -language List(adhocExtensions) -source future -sourceroot C:\Programming\Scala\Exam
+2025.01.06 09:55:46 INFO  time: compiled Exam_d595174341 in 0.23s
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-46-632.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-46-821.md
+2025.01.06 09:55:46 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-47-001.md
+2025.01.06 09:55:49 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:55:49 INFO  time: compiled Exam_d595174341 in 0.77s
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-51-843.md
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-52-441.md
+2025.01.06 09:55:52 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+error while checking  extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [A](fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking given object extends Monad[Dist] {
+  def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+  extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+}
+error while checking  {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking module object MultivariateUniform {
+  import pigaro.*
+  import adpro.monads.*
+  given object extends Monad[Dist] {
+    def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+    extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+  }
+  def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]] =
+    if n <= 0 then summon[Monad[Dist]].unit(List()) else
+      {
+        val singleUniform = Pigaro.uniform(values*)
+        summon[Monad[Dist]].replicateM(n, singleUniform)
+      }
+}
+error while checking package adpro {
+  import org.scalacheck.{Arbitrary, Gen, Prop}
+  import Arbitrary.*
+  import Prop.*
+  import org.scalactic.TripleEquals.*
+  import adpro.laziness.LazyList
+  import adpro.state.*
+  module object Good {
+    def goodPairs[A](l: List[A], good: (A, A) => Boolean): Boolean =
+      {
+        val listMinusHead = l.drop(1)
+        val consecutivePairs = l.zip(listMinusHead)
+        consecutivePairs.forall(pair => good(pair._1, pair._2))
+      }
+    def goodPairsCurried[A]: (List[A]) => ((A, A) => Boolean) => Boolean =
+      ((l: List[A], good: (A, A) => Boolean) => goodPairs(l, good)).curried
+    def curriedNested[A, B, C, D](f: ((A, B) => C) => D): ((A) => (B) => C) => D
+       =
+      (someCurriedFunction: (A) => (B) => C) =>
+        {
+          f(Function.uncurried(someCurriedFunction))
+        }
+    def goodPairsHotCurry[A]: (List[A]) => ((A) => (A) => Boolean) => Boolean =
+      (lambdaList: List[A]) =>
+        {
+          curriedNested((f: (A, A) => Boolean) => goodPairs(lambdaList, f))
+        }
+  }
+  module object MultivariateUniform {
+    import pigaro.*
+    import adpro.monads.*
+    given object extends Monad[Dist] {
+      def unit[A](a: => A): Dist[A] = Dirac(Name.No, a)
+      extension [type A](val fa: Dist[A]) def <error> = _root_.scala.Predef.???
+    }
+    def multUni[T](n: Int, values: T *)(using x$3: Monad[Dist]): Dist[List[T]]
+       =
+      if n <= 0 then summon[Monad[Dist]].unit(List()) else
+        {
+          val singleUniform = Pigaro.uniform(values*)
+          summon[Monad[Dist]].replicateM(n, singleUniform)
+        }
+  }
+  module object Gens {
+    def genEither[A, B]: Gen[Either[A, B]] = ???
+  }
+  module object IntervalParser1 {
+    import adpro.parsing.*
+    import adpro.parsing.Sliceable.*
+    def intBetween(low: Int, high: Int): Parser[Int] = ???
+  }
+  module object IntervalParser2 {
+    import adpro.parsing.*
+  }
+  module object Trains {
+    trait ReservationSystem {
+      def pay(CreditCard: String, amount: Int): Either[String, String]
+      def reserve(passenger: String, train: String, paymentId: String):
+        Either[String, String]
+      def validate(paymentId: String): Boolean
+      def paxOnTrain(train: String): Set[String]
+    }
+  }
+  module object FullyAbstractTrains {
+    def law1: Prop = ???
+    def law2: Prop = ???
+  }
+}
+Jan 06, 2025 9:55:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_09-55-53-298.md
+2025.01.06 09:55:53 WARN  Could not find semantic tokens for: file:///C:/Programming/Scala/Exam/Exam.scala
+2025.01.06 09:55:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 09:55:56 INFO  time: compiled Exam_d595174341 in 1.66s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:56:39 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:56:39 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:56:40 INFO  time: compiled Exam_d595174341-test in 1.07s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:57:05 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:57:05 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:57:05 INFO  time: compiled Exam_d595174341-test in 0.65s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:57:18 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:57:18 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:57:19 INFO  time: compiled Exam_d595174341-test in 1.06s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:57:30 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:57:30 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:57:30 INFO  time: compiled Exam_d595174341-test in 0.37s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:57:40 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:57:40 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:57:40 INFO  time: compiled Exam_d595174341-test in 0.27s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:58:08 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:58:08 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:58:09 INFO  time: compiled Exam_d595174341-test in 1.47s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:58:14 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:58:14 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:58:15 INFO  time: compiled Exam_d595174341-test in 1.36s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 9:58:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8509
+Jan 06, 2025 9:58:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8514
+2025.01.06 09:58:51 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:58:51 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:58:53 INFO  time: compiled Exam_d595174341-test in 1.72s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:59:00 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:59:00 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:59:00 INFO  time: compiled Exam_d595174341-test in 0.72s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:59:05 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:59:05 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:59:07 INFO  time: compiled Exam_d595174341-test in 1.67s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 09:59:14 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 09:59:14 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 09:59:16 INFO  time: compiled Exam_d595174341-test in 2.13s
+Jan 06, 2025 10:00:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8640
+Jan 06, 2025 10:00:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8796
+Jan 06, 2025 10:00:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8908
+Jan 06, 2025 10:00:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8912
+2025.01.06 10:00:49 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:00:50 INFO  time: compiled Exam_d595174341 in 1.68s
+Jan 06, 2025 10:01:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9010
+Jan 06, 2025 10:01:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_10-01-16-131.md
+2025.01.06 10:01:27 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:01:27 INFO  time: compiled Exam_d595174341 in 0.92s
+2025.01.06 10:02:28 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:02:30 INFO  time: compiled Exam_d595174341 in 1.54s
+Jan 06, 2025 10:03:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9267
+Jan 06, 2025 10:03:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9387
+Jan 06, 2025 10:03:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9405
+Jan 06, 2025 10:03:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9413
+2025.01.06 10:03:49 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:03:49 INFO  time: compiled Exam_d595174341 in 0.77s
+Jan 06, 2025 10:04:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9510
+Jan 06, 2025 10:04:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9639
+2025.01.06 10:04:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:04:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:04:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:04:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:04:58 INFO  time: compiled Exam_d595174341 in 2.91s
+Jan 06, 2025 10:05:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9956
+Jan 06, 2025 10:05:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10083
+Jan 06, 2025 10:06:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10160
+Jan 06, 2025 10:06:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10166
+Jan 06, 2025 10:06:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10169
+Jan 06, 2025 10:06:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10173
+Jan 06, 2025 10:06:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10188
+2025.01.06 10:06:28 INFO  compiling exam_d595174341 (1 scala source)
+Jan 06, 2025 10:06:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10230
+Jan 06, 2025 10:06:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10246
+Jan 06, 2025 10:06:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10251
+Jan 06, 2025 10:06:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10253
+2025.01.06 10:06:37 INFO  time: compiled Exam_d595174341 in 8.95s
+2025.01.06 10:06:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:06:47 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:06:55 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 10:07:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10318
+2025.01.06 10:07:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:10 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:14 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:16 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 10:07:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10380
+2025.01.06 10:07:18 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:34 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:35 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:07:39 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 10:08:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10554
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:07 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:14 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:16 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:18 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:21 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:23 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:32 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:34 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:34 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:36 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:39 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 10:08:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10776
+Jan 06, 2025 10:08:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10779
+2025.01.06 10:08:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:08:45 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:08:48 INFO  time: compiled Exam_d595174341 in 2.6s
+2025.01.06 10:08:57 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:08:59 INFO  time: compiled Exam_d595174341 in 1.68s
+2025.01.06 10:09:20 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:09:20 INFO  time: compiled Exam_d595174341 in 0.75s
+2025.01.06 10:09:33 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:09:34 INFO  time: compiled Exam_d595174341 in 1.09s
+2025.01.06 10:09:50 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:09:51 INFO  time: compiled Exam_d595174341 in 1.05s
+2025.01.06 10:10:13 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:10:13 INFO  time: compiled Exam_d595174341 in 0.55s
+2025.01.06 10:11:40 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:11:42 INFO  time: compiled Exam_d595174341 in 1.18s
+2025.01.06 10:12:34 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:12:36 INFO  time: compiled Exam_d595174341 in 1.57s
+2025.01.06 10:12:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:12:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:12:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:12:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:12:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:12:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:13:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:13:17 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:13:29 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:13:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:13:36 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:13:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:13:39 INFO  time: compiled Exam_d595174341 in 1.61s
+2025.01.06 10:14:13 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:24 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:33 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:35 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:36 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:39 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:45 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:46 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 10:14:50 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:14:51 INFO  time: compiled Exam_d595174341 in 1.2s
+Jan 06, 2025 10:15:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11574
+Jan 06, 2025 10:15:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11578
+Jan 06, 2025 10:15:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11580
+Jan 06, 2025 10:16:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11843
+Jan 06, 2025 10:16:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12062
+Jan 06, 2025 10:17:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12322
+Jan 06, 2025 10:17:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12337
+2025.01.06 10:18:02 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:18:02 INFO  time: compiled Exam_d595174341 in 0.48s
+2025.01.06 10:18:54 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:18:55 INFO  time: compiled Exam_d595174341 in 1.7s
+Jan 06, 2025 10:19:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12672
+Jan 06, 2025 10:19:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12701
+Jan 06, 2025 10:19:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12819
+Jan 06, 2025 10:19:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12856
+Jan 06, 2025 10:19:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12859
+Jan 06, 2025 10:20:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13130
+2025.01.06 10:20:08 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:20:09 INFO  time: compiled Exam_d595174341 in 1.38s
+2025.01.06 10:21:59 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:22:01 INFO  time: compiled Exam_d595174341 in 1.84s
+2025.01.06 10:22:49 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:22:49 INFO  time: compiled Exam_d595174341 in 0.85s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:23:13 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:23:13 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:23:13 INFO  time: compiled Exam_d595174341-test in 0.53s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 10:23:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13820
+2025.01.06 10:23:57 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:23:57 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:23:57 INFO  time: compiled Exam_d595174341-test in 0.77s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:24:01 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:24:01 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:24:01 INFO  time: compiled Exam_d595174341-test in 0.54s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:24:07 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:24:07 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:24:07 INFO  time: compiled Exam_d595174341-test in 0.61s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 10:24:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13927
+2025.01.06 10:24:37 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:24:37 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:24:37 INFO  time: compiled Exam_d595174341-test in 0.59s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 10:25:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14009
+2025.01.06 10:25:10 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:25:10 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:25:10 INFO  time: compiled Exam_d595174341-test in 0.48s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:25:39 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:25:39 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:25:39 INFO  time: compiled Exam_d595174341-test in 0.58s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:25:51 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:25:51 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:25:51 INFO  time: compiled Exam_d595174341-test in 0.67s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 10:26:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14173
+2025.01.06 10:26:04 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:26:04 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:26:04 INFO  time: compiled Exam_d595174341-test in 0.62s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:26:10 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:26:10 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:26:10 INFO  time: compiled Exam_d595174341-test in 0.58s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:26:21 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:26:22 INFO  time: compiled Exam_d595174341 in 1.15s
+2025.01.06 10:26:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:26:48 INFO  time: compiled Exam_d595174341 in 1.62s
+2025.01.06 10:28:20 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:28:20 INFO  time: compiled Exam_d595174341 in 0.39s
+2025.01.06 10:28:45 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:28:47 INFO  time: compiled Exam_d595174341 in 1.21s
+2025.01.06 10:29:41 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:29:43 INFO  time: compiled Exam_d595174341 in 1.65s
+2025.01.06 10:30:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:30:38 INFO  time: compiled Exam_d595174341 in 0.69s
+2025.01.06 10:32:00 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:32:02 INFO  time: compiled Exam_d595174341 in 2.07s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:32:29 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:32:29 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:32:29 INFO  time: compiled Exam_d595174341-test in 0.38s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:32:35 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:32:35 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:32:35 INFO  time: compiled Exam_d595174341-test in 0.37s
+Jan 06, 2025 10:32:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14846
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:32:37 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:32:37 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:32:37 INFO  time: compiled Exam_d595174341-test in 0.38s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:32:43 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:32:43 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:32:43 INFO  time: compiled Exam_d595174341-test in 0.31s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:32:48 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:32:48 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:32:49 INFO  time: compiled Exam_d595174341-test in 1.14s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:33:04 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:33:04 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:33:04 INFO  time: compiled Exam_d595174341-test in 0.67s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 10:34:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15097
+Jan 06, 2025 10:34:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15235
+Jan 06, 2025 10:34:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15315
+Jan 06, 2025 10:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15317
+Jan 06, 2025 10:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15319
+Jan 06, 2025 10:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15321
+Jan 06, 2025 10:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15326
+Jan 06, 2025 10:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15328
+Jan 06, 2025 10:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15329
+Jan 06, 2025 10:35:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15437
+Jan 06, 2025 10:35:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15454
+Jan 06, 2025 10:35:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15462
+2025.01.06 10:35:23 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:35:26 INFO  time: compiled Exam_d595174341 in 2.31s
+Jan 06, 2025 10:36:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15735
+Jan 06, 2025 10:36:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15736
+Jan 06, 2025 10:36:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15865
+Jan 06, 2025 10:36:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15874
+Jan 06, 2025 10:36:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16026
+Jan 06, 2025 10:36:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16057
+2025.01.06 10:36:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:36:57 INFO  time: compiled Exam_d595174341 in 1.39s
+2025.01.06 10:37:15 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:37:15 INFO  time: compiled Exam_d595174341 in 0.84s
+2025.01.06 10:37:27 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:37:27 INFO  time: compiled Exam_d595174341 in 0.88s
+2025.01.06 10:38:17 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:38:17 INFO  time: compiled Exam_d595174341 in 0.9s
+2025.01.06 10:38:41 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:38:42 INFO  time: compiled Exam_d595174341 in 1.01s
+2025.01.06 10:38:48 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:38:50 INFO  time: compiled Exam_d595174341 in 2.15s
+2025.01.06 10:40:25 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:40:25 INFO  time: compiled Exam_d595174341 in 0.82s
+Jan 06, 2025 10:40:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16443
+2025.01.06 10:40:57 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:40:57 INFO  time: compiled Exam_d595174341 in 0.36s
+Jan 06, 2025 10:41:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16613
+2025.01.06 10:41:31 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:41:33 INFO  time: compiled Exam_d595174341 in 1.44s
+2025.01.06 10:41:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:41:37 INFO  time: compiled Exam_d595174341 in 1.23s
+2025.01.06 10:41:44 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:41:44 INFO  time: compiled Exam_d595174341 in 0.87s
+Jan 06, 2025 10:42:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16789
+Jan 06, 2025 10:42:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16838
+Jan 06, 2025 10:42:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16840
+Jan 06, 2025 10:42:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16902
+2025.01.06 10:42:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:42:36 INFO  time: compiled Exam_d595174341 in 0.79s
+2025.01.06 10:42:44 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:42:45 INFO  time: compiled Exam_d595174341 in 1.86s
+Jan 06, 2025 10:43:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17110
+Jan 06, 2025 10:43:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17140
+Jan 06, 2025 10:44:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17408
+Jan 06, 2025 10:45:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17890
+Jan 06, 2025 10:45:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17941
+Jan 06, 2025 10:45:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18131
+2025.01.06 10:45:50 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:45:52 INFO  time: compiled Exam_d595174341 in 1.48s
+2025.01.06 10:46:03 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:46:04 INFO  time: compiled Exam_d595174341 in 1.22s
