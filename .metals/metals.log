@@ -3634,3 +3634,995 @@ WARNING: Unmatched cancel notification for request id 18131
 2025.01.06 10:45:52 INFO  time: compiled Exam_d595174341 in 1.48s
 2025.01.06 10:46:03 INFO  compiling exam_d595174341 (1 scala source)
 2025.01.06 10:46:04 INFO  time: compiled Exam_d595174341 in 1.22s
+Jan 06, 2025 10:47:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18296
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:48:19 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.test.scala
+2025.01.06 10:48:19 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:48:19 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:48:20 INFO  time: compiled Exam_d595174341-test in 1.49s
+Jan 06, 2025 10:48:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18386
+2025.01.06 10:48:31 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:48:32 INFO  time: compiled Exam_d595174341 in 1.07s
+2025.01.06 10:48:46 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:48:46 INFO  time: compiled Exam_d595174341 in 0.62s
+2025.01.06 10:49:58 INFO  compiling exam_d595174341 (1 scala source)
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 10:49:58 INFO  time: compiled Exam_d595174341 in 0.82s
+2025.01.06 10:50:00 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:50:01 INFO  time: compiled Exam_d595174341 in 1.49s
+2025.01.06 10:50:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:50:11 INFO  time: compiled Exam_d595174341 in 1.21s
+2025.01.06 10:50:18 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:50:19 INFO  time: compiled Exam_d595174341 in 1.24s
+2025.01.06 10:50:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:50:21 INFO  time: compiled Exam_d595174341 in 0.89s
+2025.01.06 10:51:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:51:36 INFO  time: compiled Exam_d595174341 in 0.57s
+2025.01.06 10:51:42 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:51:43 INFO  time: compiled Exam_d595174341 in 1.09s
+2025.01.06 10:51:59 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:52:00 INFO  time: compiled Exam_d595174341 in 1.2s
+2025.01.06 10:52:40 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:52:42 INFO  time: compiled Exam_d595174341 in 1.18s
+2025.01.06 10:53:11 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:53:11 INFO  time: compiled Exam_d595174341 in 0.82s
+2025.01.06 10:53:44 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:53:46 INFO  time: compiled Exam_d595174341 in 1.63s
+2025.01.06 10:53:46 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 10:53:46 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 10:53:49 INFO  time: compiled Exam_d595174341-test in 2.74s
+Jan 06, 2025 10:53:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18924
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18926
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18927
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18928
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18929
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18930
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18931
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18932
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18933
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18934
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18935
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18936
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18937
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18938
+Jan 06, 2025 10:53:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18939
+2025.01.06 10:54:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:54:49 INFO  time: compiled Exam_d595174341 in 1.87s
+Jan 06, 2025 10:55:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19137
+Jan 06, 2025 10:56:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19344
+2025.01.06 10:56:35 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:56:37 INFO  time: compiled Exam_d595174341 in 2.29s
+Jan 06, 2025 10:56:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19548
+Jan 06, 2025 10:56:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19554
+Jan 06, 2025 10:56:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19577
+Jan 06, 2025 10:56:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19579
+Jan 06, 2025 10:57:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19638
+Jan 06, 2025 10:57:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19797
+Jan 06, 2025 10:58:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19941
+2025.01.06 10:58:09 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:58:10 INFO  time: compiled Exam_d595174341 in 1.44s
+2025.01.06 10:59:58 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 10:59:59 INFO  time: compiled Exam_d595174341 in 1.07s
+2025.01.06 11:00:46 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:00:48 INFO  time: compiled Exam_d595174341 in 1.58s
+2025.01.06 11:00:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:00:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:00:50 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:00:51 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:00:52 INFO  time: compiled Exam_d595174341 in 1.08s
+2025.01.06 11:00:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:00:57 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:00:58 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:00:59 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:01:01 INFO  time: compiled Exam_d595174341 in 1.46s
+Jan 06, 2025 11:01:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20435
+Jan 06, 2025 11:01:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20436
+2025.01.06 11:01:18 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:20 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:22 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:23 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:01:24 INFO  time: compiled Exam_d595174341 in 1.46s
+2025.01.06 11:01:28 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:30 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:32 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:01:34 INFO  time: compiled Exam_d595174341 in 1.79s
+2025.01.06 11:01:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:42 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:43 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:01:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:54 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:55 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:02:56 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:01 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:03 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:04 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 11:03:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20644
+2025.01.06 11:03:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:06 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:07 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:03:09 INFO  time: compiled Exam_d595174341 in 1.19s
+2025.01.06 11:03:10 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:12 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:03:14 INFO  time: compiled Exam_d595174341 in 1.68s
+2025.01.06 11:03:28 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:03:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:05 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:08 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:04:12 INFO  time: compiled Exam_d595174341 in 1.82s
+2025.01.06 11:04:19 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:27 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:32 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:34 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:04:35 INFO  time: compiled Exam_d595174341 in 1.15s
+2025.01.06 11:04:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:38 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:39 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:39 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:39 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:45 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:48 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:04:57 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:04:58 INFO  time: compiled Exam_d595174341 in 1.23s
+Jan 06, 2025 11:05:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21008
+Jan 06, 2025 11:05:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_11-05-40-082.md
+Jan 06, 2025 11:05:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21142
+Jan 06, 2025 11:06:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_11-06-10-906.md
+Jan 06, 2025 11:06:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_11-06-16-259.md
+2025.01.06 11:06:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:06:20 INFO  time: compiled Exam_d595174341 in 1.05s
+Jan 06, 2025 11:06:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21258
+Jan 06, 2025 11:06:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21280
+Jan 06, 2025 11:06:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21281
+Jan 06, 2025 11:06:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21282
+Jan 06, 2025 11:06:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21283
+Jan 06, 2025 11:06:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_11-06-30-828.md
+2025.01.06 11:06:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:06:40 INFO  time: compiled Exam_d595174341 in 1.79s
+2025.01.06 11:07:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:07:21 INFO  time: compiled Exam_d595174341 in 1.21s
+Jan 06, 2025 11:07:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21451
+2025.01.06 11:07:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:07:41 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:07:42 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:07:44 INFO  time: compiled Exam_d595174341 in 2.12s
+Jan 06, 2025 11:08:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21593
+Jan 06, 2025 11:08:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21659
+Jan 06, 2025 11:08:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21667
+Jan 06, 2025 11:08:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21685
+Jan 06, 2025 11:08:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21723
+2025.01.06 11:08:28 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:08:30 INFO  time: compiled Exam_d595174341 in 2.25s
+Jan 06, 2025 11:09:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22120
+Jan 06, 2025 11:09:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22206
+Jan 06, 2025 11:09:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22360
+2025.01.06 11:10:11 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:10:14 INFO  time: compiled Exam_d595174341 in 2.13s
+2025.01.06 11:13:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:13:10 INFO  time: compiled Exam_d595174341 in 0.53s
+2025.01.06 11:13:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:13:21 INFO  time: compiled Exam_d595174341 in 2.08s
+2025.01.06 11:13:43 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:13:45 INFO  time: compiled Exam_d595174341 in 1.33s
+Jan 06, 2025 11:13:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22684
+Jan 06, 2025 11:14:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22728
+Jan 06, 2025 11:15:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22983
+Jan 06, 2025 11:15:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23001
+Jan 06, 2025 11:15:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23020
+Jan 06, 2025 11:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23052
+Jan 06, 2025 11:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23055
+Jan 06, 2025 11:15:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23086
+Jan 06, 2025 11:16:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23475
+Jan 06, 2025 11:16:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23503
+Jan 06, 2025 11:16:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23513
+Jan 06, 2025 11:17:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23611
+Jan 06, 2025 11:18:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24059
+Jan 06, 2025 11:18:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24275
+2025.01.06 11:18:56 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:18:59 INFO  time: compiled Exam_d595174341 in 2.95s
+Exception in thread "pool-6-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.01.06 11:19:52 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:19:53 INFO  time: compiled Exam_d595174341 in 1.12s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 11:20:35 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 11:20:35 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 11:20:35 INFO  time: compiled Exam_d595174341-test in 0.71s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 11:20:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24485
+2025.01.06 11:20:42 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 11:20:42 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 11:20:42 INFO  time: compiled Exam_d595174341-test in 0.82s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 11:21:25 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 11:21:25 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 11:21:25 INFO  time: compiled Exam_d595174341-test in 0.72s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 11:21:30 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:21:33 INFO  time: compiled Exam_d595174341 in 2.4s
+2025.01.06 11:21:40 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:21:45 INFO  time: compiled Exam_d595174341 in 4.21s
+2025.01.06 11:22:04 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:22:06 INFO  time: compiled Exam_d595174341 in 1.79s
+Jan 06, 2025 11:22:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24733
+Jan 06, 2025 11:22:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24902
+2025.01.06 11:22:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:22:38 INFO  time: compiled Exam_d595174341 in 1.86s
+Jan 06, 2025 11:25:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25163
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 11:25:29 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 11:25:29 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 11:25:29 INFO  time: compiled Exam_d595174341-test in 0.76s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 11:26:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.01.06 11:36:40 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:36:41 INFO  time: compiled Exam_d595174341 in 1.74s
+2025.01.06 11:37:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:37:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:37:15 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:37:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:37:15 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:37:17 INFO  time: compiled Exam_d595174341 in 1.54s
+2025.01.06 11:39:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:39:48 INFO  time: compiled Exam_d595174341 in 1.01s
+2025.01.06 11:40:04 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:40:06 INFO  time: compiled Exam_d595174341 in 2.15s
+Jan 06, 2025 11:40:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26067
+2025.01.06 11:40:31 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:40:34 INFO  time: compiled Exam_d595174341 in 2.05s
+2025.01.06 11:40:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:40:46 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:40:48 INFO  time: compiled Exam_d595174341 in 2.29s
+2025.01.06 11:41:00 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:41:02 INFO  time: compiled Exam_d595174341 in 1.6s
+Jan 06, 2025 11:41:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26281
+2025.01.06 11:41:49 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:41:49 INFO  time: compiled Exam_d595174341 in 0.96s
+2025.01.06 11:42:04 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:05 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:42:06 INFO  time: compiled Exam_d595174341 in 1.01s
+2025.01.06 11:42:09 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:11 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:42:13 INFO  time: compiled Exam_d595174341 in 1.82s
+2025.01.06 11:42:28 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:29 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:31 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:32 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:37 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+Jan 06, 2025 11:42:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26489
+2025.01.06 11:42:48 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:42:49 INFO  compiling exam_d595174341 (1 scala source)
+Jan 06, 2025 11:42:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26500
+2025.01.06 11:42:49 INFO  time: compiled Exam_d595174341 in 0.52s
+2025.01.06 11:43:00 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:43:02 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:43:03 INFO  time: compiled Exam_d595174341 in 1.23s
+Jan 06, 2025 11:43:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26532
+2025.01.06 11:43:27 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:43:28 INFO  time: compiled Exam_d595174341 in 1.15s
+2025.01.06 11:43:39 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:43:41 INFO  time: compiled Exam_d595174341 in 1.87s
+Jan 06, 2025 11:44:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26765
+Jan 06, 2025 11:44:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26771
+Jan 06, 2025 11:44:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26776
+Jan 06, 2025 11:44:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27160
+2025.01.06 11:45:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:45:12 INFO  time: compiled Exam_d595174341 in 2.44s
+Jan 06, 2025 11:45:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27351
+2025.01.06 11:46:02 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:46:04 INFO  time: compiled Exam_d595174341 in 2.17s
+Jan 06, 2025 11:46:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27503
+2025.01.06 11:46:26 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:46:28 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:46:31 INFO  time: compiled Exam_d595174341 in 3.53s
+2025.01.06 11:46:37 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:46:43 INFO  time: compiled Exam_d595174341 in 5.87s
+2025.01.06 11:46:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:46:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:46:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:46:44 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:46:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:46:49 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 11:46:52 INFO  time: compiled Exam_d595174341 in 5.84s
+Jan 06, 2025 11:46:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27649
+Jan 06, 2025 11:46:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27654
+2025.01.06 11:47:53 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:47:53 INFO  time: compiled Exam_d595174341 in 0.62s
+2025.01.06 11:47:57 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:47:57 INFO  time: compiled Exam_d595174341 in 0.67s
+2025.01.06 11:48:05 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:48:07 INFO  time: compiled Exam_d595174341 in 1.55s
+2025.01.06 11:48:20 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:48:22 INFO  time: compiled Exam_d595174341 in 1.7s
+Jan 06, 2025 11:48:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27993
+2025.01.06 11:48:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:48:38 INFO  time: compiled Exam_d595174341 in 1.89s
+2025.01.06 11:48:59 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:49:01 INFO  time: compiled Exam_d595174341 in 1.97s
+2025.01.06 11:50:35 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:50:35 INFO  time: compiled Exam_d595174341 in 0.81s
+2025.01.06 11:53:21 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:53:24 INFO  time: compiled Exam_d595174341 in 2.87s
+Jan 06, 2025 11:54:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28623
+Jan 06, 2025 11:54:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28624
+Jan 06, 2025 11:54:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28628
+2025.01.06 11:55:03 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:55:06 INFO  time: compiled Exam_d595174341 in 2.5s
+2025.01.06 11:56:13 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:56:15 INFO  time: compiled Exam_d595174341 in 2.15s
+2025.01.06 11:56:25 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:56:28 INFO  time: compiled Exam_d595174341 in 2.99s
+Jan 06, 2025 11:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28862
+Jan 06, 2025 11:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28863
+2025.01.06 11:56:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:56:56 INFO  time: compiled Exam_d595174341 in 1.74s
+Jan 06, 2025 11:57:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29166
+2025.01.06 11:57:56 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:57:57 INFO  time: compiled Exam_d595174341 in 1.07s
+2025.01.06 11:58:04 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:58:06 INFO  time: compiled Exam_d595174341 in 1.82s
+2025.01.06 11:58:16 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:58:16 INFO  time: compiled Exam_d595174341 in 0.8s
+Jan 06, 2025 11:58:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29334
+Jan 06, 2025 11:58:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29337
+Jan 06, 2025 11:58:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29339
+Jan 06, 2025 11:58:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29341
+Jan 06, 2025 11:58:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29343
+Jan 06, 2025 11:58:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29356
+2025.01.06 11:58:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:58:37 INFO  time: compiled Exam_d595174341 in 1.48s
+2025.01.06 11:58:47 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:58:48 INFO  time: compiled Exam_d595174341 in 1.2s
+2025.01.06 11:58:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 11:58:57 INFO  time: compiled Exam_d595174341 in 1.53s
+2025.01.06 12:00:12 INFO  compiling exam_d595174341 (1 scala source)
+Jan 06, 2025 12:00:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29511
+2025.01.06 12:00:16 INFO  time: compiled Exam_d595174341 in 3.83s
+2025.01.06 12:00:19 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:00:21 INFO  time: compiled Exam_d595174341 in 2.66s
+2025.01.06 12:00:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:00:38 INFO  time: compiled Exam_d595174341 in 1.37s
+2025.01.06 12:00:48 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:00:48 INFO  time: compiled Exam_d595174341 in 0.8s
+2025.01.06 12:00:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:00:55 INFO  time: compiled Exam_d595174341 in 0.85s
+Jan 06, 2025 12:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29625
+2025.01.06 12:01:11 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:01:11 INFO  time: compiled Exam_d595174341 in 0.91s
+2025.01.06 12:03:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:03:10 INFO  time: compiled Exam_d595174341 in 0.92s
+Jan 06, 2025 12:03:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30009
+Jan 06, 2025 12:03:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30046
+Jan 06, 2025 12:03:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30048
+Jan 06, 2025 12:03:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30047
+2025.01.06 12:04:08 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:04:10 INFO  time: compiled Exam_d595174341 in 2.03s
+Jan 06, 2025 12:04:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30182
+Jan 06, 2025 12:04:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30193
+Jan 06, 2025 12:04:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30195
+2025.01.06 12:04:26 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:04:28 INFO  time: compiled Exam_d595174341 in 1.9s
+Jan 06, 2025 12:04:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30240
+Jan 06, 2025 12:05:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30336
+Jan 06, 2025 12:05:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30361
+Jan 06, 2025 12:05:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30388
+Jan 06, 2025 12:05:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30412
+Jan 06, 2025 12:05:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30555
+Jan 06, 2025 12:05:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30560
+Jan 06, 2025 12:05:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30570
+2025.01.06 12:05:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:05:40 INFO  time: compiled Exam_d595174341 in 1.42s
+Jan 06, 2025 12:05:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30688
+Jan 06, 2025 12:05:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30749
+Jan 06, 2025 12:05:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30760
+Jan 06, 2025 12:07:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30911
+2025.01.06 12:07:30 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:07:30 INFO  time: compiled Exam_d595174341 in 0.95s
+2025.01.06 12:08:00 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:08:02 INFO  time: compiled Exam_d595174341 in 1.28s
+2025.01.06 12:08:44 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:08:45 INFO  time: compiled Exam_d595174341 in 1.64s
+Jan 06, 2025 12:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31282
+Jan 06, 2025 12:08:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31284
+Jan 06, 2025 12:09:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31314
+2025.01.06 12:09:22 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:09:24 INFO  time: compiled Exam_d595174341 in 1.33s
+2025.01.06 12:10:34 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:10:35 INFO  time: compiled Exam_d595174341 in 1.28s
+2025.01.06 12:10:44 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:10:46 INFO  time: compiled Exam_d595174341 in 2.44s
+2025.01.06 12:11:13 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:11:14 INFO  time: compiled Exam_d595174341 in 1.59s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 12:11:33 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:11:35 INFO  time: compiled Exam_d595174341 in 1.99s
+Jan 06, 2025 12:11:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31780
+2025.01.06 12:12:27 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:12:29 INFO  time: compiled Exam_d595174341 in 1.39s
+Jan 06, 2025 12:13:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31957
+Jan 06, 2025 12:13:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31959
+Jan 06, 2025 12:13:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31974
+2025.01.06 12:14:06 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:14:08 INFO  time: compiled Exam_d595174341 in 1.49s
+Jan 06, 2025 12:14:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32079
+Jan 06, 2025 12:14:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32081
+Jan 06, 2025 12:14:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32247
+Jan 06, 2025 12:14:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32261
+Jan 06, 2025 12:14:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32270
+Jan 06, 2025 12:14:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32275
+Jan 06, 2025 12:15:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32435
+Jan 06, 2025 12:15:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-15-23-336.md
+Jan 06, 2025 12:15:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32584
+Jan 06, 2025 12:15:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32587
+Jan 06, 2025 12:15:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32614
+Jan 06, 2025 12:15:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-15-40-000.md
+Jan 06, 2025 12:15:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-15-51-121.md
+Jan 06, 2025 12:15:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32822
+Jan 06, 2025 12:15:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32823
+Jan 06, 2025 12:15:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32824
+Jan 06, 2025 12:15:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32831
+Jan 06, 2025 12:16:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32890
+Jan 06, 2025 12:16:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32904
+Jan 06, 2025 12:16:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32954
+Jan 06, 2025 12:17:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-17-17-587.md
+Jan 06, 2025 12:17:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33244
+Jan 06, 2025 12:17:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-17-20-654.md
+Jan 06, 2025 12:17:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-17-21-764.md
+Jan 06, 2025 12:17:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33275
+Jan 06, 2025 12:17:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33276
+Jan 06, 2025 12:17:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33278
+Jan 06, 2025 12:17:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33279
+Jan 06, 2025 12:17:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-17-35-578.md
+Jan 06, 2025 12:17:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-17-44-013.md
+Jan 06, 2025 12:18:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33783
+2025.01.06 12:19:13 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:19:15 INFO  time: compiled Exam_d595174341 in 1.68s
+Jan 06, 2025 12:19:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33907
+Jan 06, 2025 12:20:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34015
+Jan 06, 2025 12:20:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34398
+Jan 06, 2025 12:20:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34409
+2025.01.06 12:21:32 INFO  compiling exam_d595174341 (1 scala source)
+Jan 06, 2025 12:21:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34697
+2025.01.06 12:21:34 INFO  time: compiled Exam_d595174341 in 2.19s
+Jan 06, 2025 12:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34712
+Jan 06, 2025 12:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34713
+Jan 06, 2025 12:22:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34893
+Jan 06, 2025 12:22:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34944
+Jan 06, 2025 12:22:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35021
+2025.01.06 12:24:14 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:24:15 INFO  time: compiled Exam_d595174341 in 1.45s
+2025.01.06 12:24:58 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:25:00 INFO  time: compiled Exam_d595174341 in 1.8s
+Jan 06, 2025 12:26:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35669
+2025.01.06 12:26:36 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:26:37 INFO  time: compiled Exam_d595174341 in 1.94s
+2025.01.06 12:26:54 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:26:56 INFO  time: compiled Exam_d595174341 in 1.77s
+2025.01.06 12:27:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:27:12 INFO  time: compiled Exam_d595174341 in 2.14s
+2025.01.06 12:28:00 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:28:02 INFO  time: compiled Exam_d595174341 in 1.32s
+2025.01.06 12:28:15 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:28:17 INFO  time: compiled Exam_d595174341 in 2.05s
+Jan 06, 2025 12:28:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36010
+2025.01.06 12:28:26 INFO  compiling exam_d595174341 (1 scala source)
+Jan 06, 2025 12:28:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36006
+Jan 06, 2025 12:28:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36014
+Jan 06, 2025 12:28:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36017
+Jan 06, 2025 12:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36008
+Jan 06, 2025 12:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36019
+2025.01.06 12:28:30 INFO  time: compiled Exam_d595174341 in 4.32s
+Jan 06, 2025 12:28:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36066
+Jan 06, 2025 12:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36072
+Jan 06, 2025 12:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36075
+Jan 06, 2025 12:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36076
+Jan 06, 2025 12:28:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36090
+Jan 06, 2025 12:28:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36184
+Jan 06, 2025 12:28:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36195
+2025.01.06 12:29:02 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:29:02 INFO  time: compiled Exam_d595174341 in 0.9s
+2025.01.06 12:29:38 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:29:40 INFO  time: compiled Exam_d595174341 in 2.12s
+Exception in thread "pool-6-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.01.06 12:31:16 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:31:20 INFO  time: compiled Exam_d595174341 in 3.4s
+Jan 06, 2025 12:31:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36633
+2025.01.06 12:31:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 12:31:40 WARN  Could not load snapshot text for C:\Programming\Scala\Exam\Exam.scala
+2025.01.06 12:31:41 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:31:43 INFO  time: compiled Exam_d595174341 in 1.68s
+Jan 06, 2025 12:32:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36813
+Jan 06, 2025 12:32:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36812
+Jan 06, 2025 12:32:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36817
+Jan 06, 2025 12:32:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36880
+Jan 06, 2025 12:32:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36881
+2025.01.06 12:32:48 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:32:49 INFO  time: compiled Exam_d595174341 in 1.12s
+Jan 06, 2025 12:33:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37125
+2025.01.06 12:34:24 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:34:25 INFO  time: compiled Exam_d595174341 in 1.28s
+2025.01.06 12:34:55 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:34:57 INFO  time: compiled Exam_d595174341 in 2.02s
+Jan 06, 2025 12:35:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37413
+Jan 06, 2025 12:35:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37426
+2025.01.06 12:35:23 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:35:25 INFO  time: compiled Exam_d595174341 in 1.79s
+2025.01.06 12:35:34 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:35:36 INFO  time: compiled Exam_d595174341 in 1.76s
+Jan 06, 2025 12:35:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37600
+2025.01.06 12:36:03 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:36:04 INFO  time: compiled Exam_d595174341 in 1.12s
+Jan 06, 2025 12:36:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37672
+Jan 06, 2025 12:36:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37681
+Jan 06, 2025 12:36:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37705
+2025.01.06 12:36:30 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:36:30 INFO  time: compiled Exam_d595174341 in 0.87s
+Jan 06, 2025 12:36:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37777
+Jan 06, 2025 12:37:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37832
+2025.01.06 12:38:10 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:38:12 INFO  time: compiled Exam_d595174341 in 1.07s
+2025.01.06 12:39:04 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:39:05 INFO  time: compiled Exam_d595174341 in 1.17s
+Jan 06, 2025 12:39:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38106
+Jan 06, 2025 12:39:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38110
+Jan 06, 2025 12:39:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38179
+Jan 06, 2025 12:39:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38212
+Jan 06, 2025 12:39:25 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-39-25-584.md
+Jan 06, 2025 12:39:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38252
+Jan 06, 2025 12:39:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Programming\Scala\Exam\.metals\.reports\metals-full\2025-01-06\r_compiler-error_(Exam_d595174341)_12-39-27-648.md
+2025.01.06 12:39:30 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:39:31 INFO  time: compiled Exam_d595174341 in 1.44s
+Jan 06, 2025 12:41:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38519
+Jan 06, 2025 12:42:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38661
+Jan 06, 2025 12:42:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38729
+Jan 06, 2025 12:42:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38745
+2025.01.06 12:42:34 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:42:38 INFO  time: compiled Exam_d595174341 in 4.08s
+Jan 06, 2025 12:43:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38925
+Jan 06, 2025 12:43:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38955
+Jan 06, 2025 12:44:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39205
+Jan 06, 2025 12:45:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39216
+Jan 06, 2025 12:45:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39218
+Jan 06, 2025 12:45:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39221
+Jan 06, 2025 12:45:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39264
+Jan 06, 2025 12:45:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39325
+Jan 06, 2025 12:45:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39328
+Jan 06, 2025 12:45:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39361
+Jan 06, 2025 12:45:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39364
+Jan 06, 2025 12:45:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39418
+Jan 06, 2025 12:45:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39453
+Jan 06, 2025 12:46:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39824
+Jan 06, 2025 12:46:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39831
+Jan 06, 2025 12:46:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39857
+Jan 06, 2025 12:46:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39919
+2025.01.06 12:47:46 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:47:47 INFO  time: compiled Exam_d595174341 in 1.24s
+Jan 06, 2025 12:48:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40147
+Jan 06, 2025 12:48:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40177
+Jan 06, 2025 12:48:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40182
+Jan 06, 2025 12:48:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40192
+Jan 06, 2025 12:48:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40221
+Jan 06, 2025 12:48:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40229
+Jan 06, 2025 12:48:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40264
+Jan 06, 2025 12:48:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40287
+Jan 06, 2025 12:48:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40295
+Jan 06, 2025 12:48:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40316
+Jan 06, 2025 12:48:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40320
+Jan 06, 2025 12:48:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40341
+Jan 06, 2025 12:48:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40343
+Jan 06, 2025 12:48:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40349
+Jan 06, 2025 12:48:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40383
+Jan 06, 2025 12:48:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40389
+Jan 06, 2025 12:48:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40395
+2025.01.06 12:48:53 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:48:55 INFO  time: compiled Exam_d595174341 in 1.56s
+Jan 06, 2025 12:48:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40475
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 12:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40686
+2025.01.06 12:50:10 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 12:50:10 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 12:50:10 INFO  time: compiled Exam_d595174341-test in 0.76s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 12:50:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40791
+Jan 06, 2025 12:50:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40792
+2025.01.06 12:50:22 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 12:50:22 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 12:50:22 INFO  time: compiled Exam_d595174341-test in 0.85s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+Jan 06, 2025 12:50:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40876
+2025.01.06 12:51:24 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:51:25 INFO  time: compiled Exam_d595174341 in 1.14s
+2025.01.06 12:52:26 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:52:27 INFO  time: compiled Exam_d595174341 in 1.39s
+Jan 06, 2025 12:52:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41155
+Jan 06, 2025 12:52:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41158
+2025.01.06 12:53:08 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:53:10 INFO  time: compiled Exam_d595174341 in 1.5s
+Jan 06, 2025 12:53:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41297
+2025.01.06 12:53:49 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:53:50 INFO  time: compiled Exam_d595174341 in 1.47s
+Jan 06, 2025 12:54:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41337
+Jan 06, 2025 12:55:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41473
+Jan 06, 2025 12:55:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41475
+2025.01.06 12:55:48 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:55:52 INFO  time: compiled Exam_d595174341 in 3.7s
+2025.01.06 12:56:51 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:56:53 INFO  time: compiled Exam_d595174341 in 1.81s
+Jan 06, 2025 12:57:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41765
+Jan 06, 2025 12:57:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41778
+2025.01.06 12:57:07 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:57:07 INFO  time: compiled Exam_d595174341 in 0.85s
+Jan 06, 2025 12:57:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41821
+2025.01.06 12:58:13 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:58:14 INFO  time: compiled Exam_d595174341 in 1.61s
+Jan 06, 2025 12:58:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42004
+Jan 06, 2025 12:58:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42022
+Jan 06, 2025 12:58:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42024
+Jan 06, 2025 12:58:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42027
+Jan 06, 2025 12:58:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42050
+Jan 06, 2025 12:58:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42136
+Jan 06, 2025 12:58:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42144
+2025.01.06 12:58:59 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 12:59:00 INFO  time: compiled Exam_d595174341 in 1.2s
+Jan 06, 2025 1:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42288
+2025.01.06 13:01:56 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 13:01:57 INFO  time: compiled Exam_d595174341 in 1.24s
+2025.01.06 13:02:01 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 13:02:02 INFO  time: compiled Exam_d595174341 in 1.33s
+Jan 06, 2025 1:02:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42547
+Jan 06, 2025 1:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42612
+Jan 06, 2025 1:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42614
+Jan 06, 2025 1:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42618
+Jan 06, 2025 1:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42619
+Jan 06, 2025 1:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42621
+Jan 06, 2025 1:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42625
+2025.01.06 13:02:32 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 13:02:33 INFO  time: compiled Exam_d595174341 in 1.63s
+2025.01.06 13:03:39 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 13:03:40 INFO  time: compiled Exam_d595174341 in 1.4s
+2025.01.06 13:05:20 INFO  compiling exam_d595174341 (1 scala source)
+2025.01.06 13:05:22 INFO  time: compiled Exam_d595174341 in 1.66s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
+2025.01.06 13:06:27 INFO  compiling exam_d595174341-test (1 scala source)
+2025.01.06 13:06:27 WARN  Setting -language set to adhocExtensions redundantly
+2025.01.06 13:06:30 INFO  time: compiled Exam_d595174341-test in 2.55s
+Setting -language set to adhocExtensions redundantly
+No warnings can be incurred under -Werror (or -Xfatal-warnings)
